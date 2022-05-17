@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning front-end dev skills
 - 🌱 I’m currently learning a lot of new and interesting things.
 - 💞️ I’m looking to collaborate on great projects and meet new people.
-- 📫 How to reach me ...
+- 📫 Reach me on LinkedIn! https://www.linkedin.com/in/regilopes/
 
 <!---
 regilopes/regilopes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
