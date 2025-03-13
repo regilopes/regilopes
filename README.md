@@ -3,7 +3,6 @@
 ### 👋 Hi, I’m Reginaldo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/regilopes/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regilopes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regilopes&layout=compact&langs_count=5&theme=radical"/>
 </div>
